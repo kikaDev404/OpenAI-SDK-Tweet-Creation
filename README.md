@@ -21,3 +21,9 @@ This is a simple yet powerful project which demonstrate multi agent environment 
 
 # Handoffs
 Project clearly shows how the Handoffs work in OpenAI sdk. 
+
+# Life made easy for twitter creators
+You don't want to dig your brain for good morning content to tweet. you can feed any info that you want llm to use, structure the code, then just say "give me todays good morning tweet". Done. 
+
+# configure once, use it easy.
+You only need to configure the twitter activity once, then you get unlimitted good morning content. no need to think, content is just a prompt away. 
