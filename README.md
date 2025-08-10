@@ -12,18 +12,27 @@ At its core, the project covers multiple AI agents for the following:
 4. **Agent for co-ordinating the activities accross multiple agents**
 
 # Platforms used
-Project use Locally hosted LLM using Ollama and perplexcity Sonar LLM. You are free to replace the models to the one you please
+1. **Locally hosted LLM via Ollama**
+
+2. **Perplexity Sonar LLM for enhanced information retrieval**
+
+You can freely replace these models with any you prefer.
 
 # Core tweet
-You can change the prompt as well the information shared to the agents. to edit the information, replace the yapping_info.txt file. 
+You can modify both the prompt and the information fed to the agents.
+To change the source content, replace the **yapping_info.txt** file.
 
-This is a simple yet powerful project which demonstrate multi agent environment and also AI agent as tools scenario. 
+This is a simple yet powerful example of a multi-agent setup and the AI agents as tools scenario.
 
 # Handoffs
-Project clearly shows how the Handoffs work in OpenAI sdk. 
+The project clearly demonstrates how handoffs work in the OpenAI SDK, passing control and context between multiple agents.
 
 # Life made easy for twitter creators
-You don't want to dig your brain for good morning content to tweet. you can feed any info that you want llm to use, structure the code, then just say "give me todays good morning tweet". Done. 
+No more racking your brain for good morning content!
+Just:
+1. **Feed the LLM any information you want it to use.**
+2. **Structure your code.**
+3. **Say: ```give me today’s good morning tweet```**
 
-# configure once, use it easy.
-You only need to configure the twitter activity once, then you get unlimitted good morning content. no need to think, content is just a prompt away. 
+# Configure once, use it easy.
+Set up your Twitter activity once, and get unlimited, ready-to-post good morning tweets—all just a prompt away.
